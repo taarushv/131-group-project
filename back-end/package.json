@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts":{
+    "start": "node src/app.js"
+  },
   "dependencies": {
     "chart.js": "^2.7.3",
     "mysql": "^2.16.0",
