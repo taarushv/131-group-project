@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "start": "node src/app.js"
   },
   "dependencies": {
     "chart.js": "^2.7.3",
+    "mocha": "^6.0.2",
     "mysql": "^2.16.0",
     "passport": "^0.4.0",
     "stripe": "^6.26.0"
