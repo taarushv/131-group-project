@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>  
+
+<style>
+    .button {font-size: 20px;}
+</style>
+        <head>
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+              </head>
+
+
+    
+<body style="background-color:#F4F6F9;">
+        
+     <span><strong><font face="verdana" size="6">SPARTAN FOODS</font></span></strong>
+     <img style="vertical-align:middle" src="sjsu_foods.png" alt="Foods" align= "top" width="40" height="50">
+                
+     <button class="button"style='float:right' class="btn btn-default btn-sm" >
+            <span class="glyphicon glyphicon-shopping-cart"></span> Cart </button>
+     
+
+
+
+  <style>ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: right;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #111;
+      }
+      </style>
+      
+      <ul>
+       
+        <li><font size="4"><a href="#Log in">Log in</a></li></font>
+        <li><font size="4"><a href="#Sign Up">Sign Up</a></li></font>
+        <li><font size="4"><a href="#contact">Coupons</a></li> </font>
+        <li><font size="4"><a href="#Products">Products</a></li></font>
+        <li><font size="4"><a class="active" href="#home">Home</a></li></font>
+        
+      </ul></style>  
+      
+    
+
+      <img style="vertical-align:middle" src="groceries.jpg" alt="Foods" align= "middle" width="1350" height="700">
+      
+
+</body>
+</html>
